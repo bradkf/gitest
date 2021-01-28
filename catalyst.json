@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "targets": [
+      "test"
+    ],
+    "ignore": [
+      ".output",
+      ".project",
+      ".classpath"
+    ],
+    "source": "functions"
+  }
+}
