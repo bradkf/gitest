@@ -1,0 +1,35 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "6604000000461114",
+      "name": "GitTet",
+      "domain": {
+        "id": "10025216787",
+        "name": "gittet-709542684.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "709542684",
+          "name": "Development",
+          "type": 3
+        },
+        {
+          "idx": 2,
+          "id": "10025217356",
+          "name": "Production",
+          "type": 1
+        }
+      ]
+    }
+  ]
+}
