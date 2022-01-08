@@ -1,7 +1,8 @@
 {
   "functions": {
     "targets": [
-      "test"
+      "test",
+      "test1"
     ],
     "ignore": [
       ".output",

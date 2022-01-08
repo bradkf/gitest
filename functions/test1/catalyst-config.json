@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "test1",
+		"stack": "java8",
+		"type": "basicio"
+	},
+	"execution": {
+		"main": "Test1"
+	}
+}
